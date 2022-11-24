@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JAVA_CRUD_Etudiants:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JAVA_CRUD_Etudiants_jar</output-path>
+    <root id="archive" name="JAVA_CRUD_Etudiants.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="JAVA_CRUD_Etudiants" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../JavaLibraries/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
